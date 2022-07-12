@@ -5,7 +5,7 @@
   "author": "ted.wen <108644367+ted-wen-asiayo@users.noreply.github.com>",
   "homepage": "https://github.com/ted-wen-asiayo/lerna-test#readme",
   "license": "ISC",
-  "main": "lib/host.js",
+  "main": "lib/main.js",
   "publishConfig": {
     "access": "public"
   },
