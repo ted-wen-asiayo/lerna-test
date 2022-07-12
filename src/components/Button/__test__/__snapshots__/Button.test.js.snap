@@ -1,0 +1,966 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Button styles button shapes all render correct 1`] = `
+.c0[type] {
+  color: #ffffff;
+  background-color: #1e9fd2;
+  border-color: #1e9fd2;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  padding: 6px 16px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.c0[type]:not(:disabled):hover {
+  background-color: #0f7aab;
+  border-color: #0f7aab;
+}
+
+.c0[type]:not(:disabled):active {
+  background-color: #055885;
+  border-color: #055885;
+}
+
+.c0[type]:not(:disabled):focus {
+  border-color: #1e9fd2;
+  box-shadow: 0 0 0 2px #1e9fd248;
+}
+
+.c1[type] {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c1[type]:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+@media (hover:none) {
+  .c0[type]:hover {
+    background-color: #1e9fd2;
+  }
+}
+
+<button
+  className="c0 c1"
+  shape="rounded"
+  size="small"
+  type="button"
+>
+  Shape
+</button>
+`;
+
+exports[`test Button styles button shapes all render correct 2`] = `
+.c0[type] {
+  color: #ffffff;
+  background-color: #1e9fd2;
+  border-color: #1e9fd2;
+  border-radius: small;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  padding: 6px 16px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.c0[type]:not(:disabled):hover {
+  background-color: #0f7aab;
+  border-color: #0f7aab;
+}
+
+.c0[type]:not(:disabled):active {
+  background-color: #055885;
+  border-color: #055885;
+}
+
+.c0[type]:not(:disabled):focus {
+  border-color: #1e9fd2;
+  box-shadow: 0 0 0 2px #1e9fd248;
+}
+
+.c1[type] {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c1[type]:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+@media (hover:none) {
+
+}
+
+@media (hover:none) {
+  .c0[type]:hover {
+    background-color: #1e9fd2;
+  }
+}
+
+<button
+  className="c0 c1"
+  shape="pill"
+  size="small"
+  type="button"
+>
+  Shape
+</button>
+`;
+
+exports[`test Button styles button size all render correct 1`] = `
+.c0[type] {
+  color: #ffffff;
+  background-color: #1e9fd2;
+  border-color: #1e9fd2;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  padding: 6px 16px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.c0[type]:not(:disabled):hover {
+  background-color: #0f7aab;
+  border-color: #0f7aab;
+}
+
+.c0[type]:not(:disabled):active {
+  background-color: #055885;
+  border-color: #055885;
+}
+
+.c0[type]:not(:disabled):focus {
+  border-color: #1e9fd2;
+  box-shadow: 0 0 0 2px #1e9fd248;
+}
+
+.c1[type] {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c1[type]:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+@media (hover:none) {
+  .c0[type]:hover {
+    background-color: #1e9fd2;
+  }
+}
+
+<button
+  className="c0 c1"
+  shape="rounded"
+  size="small"
+  type="button"
+>
+  Size
+</button>
+`;
+
+exports[`test Button styles button size all render correct 2`] = `
+.c0[type] {
+  color: #ffffff;
+  background-color: #1e9fd2;
+  border-color: #1e9fd2;
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  padding: 8px 20px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.c0[type]:not(:disabled):hover {
+  background-color: #0f7aab;
+  border-color: #0f7aab;
+}
+
+.c0[type]:not(:disabled):active {
+  background-color: #055885;
+  border-color: #055885;
+}
+
+.c0[type]:not(:disabled):focus {
+  border-color: #1e9fd2;
+  box-shadow: 0 0 0 2px #1e9fd248;
+}
+
+.c1[type] {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c1[type]:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+@media (hover:none) {
+
+}
+
+@media (hover:none) {
+  .c0[type]:hover {
+    background-color: #1e9fd2;
+  }
+}
+
+<button
+  className="c0 c1"
+  shape="rounded"
+  size="medium"
+  type="button"
+>
+  Size
+</button>
+`;
+
+exports[`test Button styles button size all render correct 3`] = `
+.c0[type] {
+  color: #ffffff;
+  background-color: #1e9fd2;
+  border-color: #1e9fd2;
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  padding: 12px 24px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.c0[type]:not(:disabled):hover {
+  background-color: #0f7aab;
+  border-color: #0f7aab;
+}
+
+.c0[type]:not(:disabled):active {
+  background-color: #055885;
+  border-color: #055885;
+}
+
+.c0[type]:not(:disabled):focus {
+  border-color: #1e9fd2;
+  box-shadow: 0 0 0 2px #1e9fd248;
+}
+
+.c1[type] {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c1[type]:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+@media (hover:none) {
+
+}
+
+@media (hover:none) {
+
+}
+
+@media (hover:none) {
+  .c0[type]:hover {
+    background-color: #1e9fd2;
+  }
+}
+
+<button
+  className="c0 c1"
+  shape="rounded"
+  size="large"
+  type="button"
+>
+  Size
+</button>
+`;
+
+exports[`test Button styles button size all render correct 4`] = `
+.c0[type] {
+  color: #ffffff;
+  background-color: #1e9fd2;
+  border-color: #1e9fd2;
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  padding: 12px 24px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.c0[type]:not(:disabled):hover {
+  background-color: #0f7aab;
+  border-color: #0f7aab;
+}
+
+.c0[type]:not(:disabled):active {
+  background-color: #055885;
+  border-color: #055885;
+}
+
+.c0[type]:not(:disabled):focus {
+  border-color: #1e9fd2;
+  box-shadow: 0 0 0 2px #1e9fd248;
+}
+
+.c1[type] {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c1[type]:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+@media (hover:none) {
+
+}
+
+@media (hover:none) {
+
+}
+
+@media (hover:none) {
+
+}
+
+@media screen and (min-width:40em) {
+
+}
+
+@media screen and (min-width:52em) {
+  .c0[type] {
+    padding: 12px 24px;
+  }
+}
+
+@media screen and (min-width:64em) {
+
+}
+
+@media (hover:none) {
+  .c0[type]:hover {
+    background-color: #1e9fd2;
+  }
+}
+
+<button
+  className="c0 c1"
+  shape="rounded"
+  size="response"
+  type="button"
+>
+  Size
+</button>
+`;
+
+exports[`test Button styles disabled button style 1`] = `
+.c0[type] {
+  color: #ffffff;
+  background-color: #1e9fd2;
+  border-color: #1e9fd2;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  padding: 6px 16px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.c0[type]:not(:disabled):hover {
+  background-color: #0f7aab;
+  border-color: #0f7aab;
+}
+
+.c0[type]:not(:disabled):active {
+  background-color: #055885;
+  border-color: #055885;
+}
+
+.c0[type]:not(:disabled):focus {
+  border-color: #1e9fd2;
+  box-shadow: 0 0 0 2px #1e9fd248;
+}
+
+.c1[type] {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c1[type]:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+@media (hover:none) {
+  .c0[type]:hover {
+    background-color: #1e9fd2;
+  }
+}
+
+<button
+  className="c0 c1"
+  disabled={true}
+  shape="rounded"
+  size="small"
+  type="button"
+>
+  Disabled
+</button>
+`;
+
+exports[`test Button styles loading button style 1`] = `
+.c0[type] {
+  color: #ffffff;
+  background-color: #1e9fd2;
+  border-color: #1e9fd2;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  padding: 6px 16px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.c0[type]:not(:disabled):hover {
+  background-color: #0f7aab;
+  border-color: #0f7aab;
+}
+
+.c0[type]:not(:disabled):active {
+  background-color: #055885;
+  border-color: #055885;
+}
+
+.c0[type]:not(:disabled):focus {
+  border-color: #1e9fd2;
+  box-shadow: 0 0 0 2px #1e9fd248;
+}
+
+.c2 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+}
+
+.c5 {
+  box-sizing: border-box;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 50%;
+  opacity: 0;
+  -webkit-animation: dkykjR 1s infinite;
+  animation: dkykjR 1s infinite;
+  -webkit-animation-delay: .0s;
+  animation-delay: .0s;
+}
+
+.c6 {
+  box-sizing: border-box;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 50%;
+  opacity: 0;
+  -webkit-animation: dkykjR 1s infinite;
+  animation: dkykjR 1s infinite;
+  -webkit-animation-delay: .1s;
+  animation-delay: .1s;
+}
+
+.c7 {
+  box-sizing: border-box;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 50%;
+  opacity: 0;
+  -webkit-animation: dkykjR 1s infinite;
+  animation: dkykjR 1s infinite;
+  -webkit-animation-delay: .2s;
+  animation-delay: .2s;
+}
+
+.c3 {
+  width: 44px;
+  line-height: 20px;
+  padding: 6px 0;
+}
+
+.c3 .c4 {
+  border-width: 4px;
+}
+
+.c1[type] {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c1[type]:disabled {
+  opacity: 1;
+  cursor: not-allowed;
+}
+
+@media (hover:none) {
+  .c0[type]:hover {
+    background-color: #1e9fd2;
+  }
+}
+
+<button
+  className="c0 c1"
+  disabled={true}
+  loading={true}
+  shape="rounded"
+  size="small"
+  type="button"
+>
+  <div
+    className="c2 c3"
+  >
+    <div
+      className="c4 c5"
+    />
+    <div
+      className="c4 c6"
+    />
+    <div
+      className="c4 c7"
+    />
+  </div>
+</button>
+`;
+
+exports[`test Button styles primary button style 1`] = `
+.c0[type] {
+  color: #ffffff;
+  background-color: #1e9fd2;
+  border-color: #1e9fd2;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  padding: 6px 16px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.c0[type]:not(:disabled):hover {
+  background-color: #0f7aab;
+  border-color: #0f7aab;
+}
+
+.c0[type]:not(:disabled):active {
+  background-color: #055885;
+  border-color: #055885;
+}
+
+.c0[type]:not(:disabled):focus {
+  border-color: #1e9fd2;
+  box-shadow: 0 0 0 2px #1e9fd248;
+}
+
+.c1[type] {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c1[type]:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+@media (hover:none) {
+  .c0[type]:hover {
+    background-color: #1e9fd2;
+  }
+}
+
+<button
+  className="c0 c1"
+  shape="rounded"
+  size="small"
+  type="button"
+>
+  Primary
+</button>
+`;
+
+exports[`test Button styles pureIcon button style 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c2 {
+  font-family: 'Ay-Web-Icons-Solid' !important;
+}
+
+.c3 {
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.c3:before {
+  content: '\\e922';
+}
+
+.c0[type] {
+  color: #ffffff;
+  background-color: #1e9fd2;
+  border-color: #1e9fd2;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 500;
+  width: 32px;
+  height: 32px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.c0[type]:not(:disabled):hover {
+  background-color: #0f7aab;
+  border-color: #0f7aab;
+}
+
+.c0[type]:not(:disabled):active {
+  background-color: #055885;
+  border-color: #055885;
+}
+
+.c0[type]:not(:disabled):focus {
+  border-color: #1e9fd2;
+  box-shadow: 0 0 0 2px #1e9fd248;
+}
+
+.c1[type] {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c1[type]:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+@media (hover:none) {
+  .c0[type]:hover {
+    background-color: #1e9fd2;
+  }
+}
+
+<body>
+    <div>
+      <button
+        class="c0 c1"
+        shape="rounded"
+        type="button"
+      >
+        <span
+          class="c2"
+          type="solid"
+        >
+          <i
+            class="c3"
+          />
+        </span>
+        Loading
+      </button>
+    </div>
+  </body>,
+  "container": .c2 {
+  font-family: 'Ay-Web-Icons-Solid' !important;
+}
+
+.c3 {
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.c3:before {
+  content: '\\e922';
+}
+
+.c0[type] {
+  color: #ffffff;
+  background-color: #1e9fd2;
+  border-color: #1e9fd2;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 500;
+  width: 32px;
+  height: 32px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.c0[type]:not(:disabled):hover {
+  background-color: #0f7aab;
+  border-color: #0f7aab;
+}
+
+.c0[type]:not(:disabled):active {
+  background-color: #055885;
+  border-color: #055885;
+}
+
+.c0[type]:not(:disabled):focus {
+  border-color: #1e9fd2;
+  box-shadow: 0 0 0 2px #1e9fd248;
+}
+
+.c1[type] {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c1[type]:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+@media (hover:none) {
+  .c0[type]:hover {
+    background-color: #1e9fd2;
+  }
+}
+
+<div>
+    <button
+      class="c0 c1"
+      shape="rounded"
+      type="button"
+    >
+      <span
+        class="c2"
+        type="solid"
+      >
+        <i
+          class="c3"
+        />
+      </span>
+      Loading
+    </button>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

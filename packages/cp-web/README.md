@@ -1,11 +1,11 @@
-# `core`
+# `cp`
 
 > TODO: description
 
 ## Usage
 
 ```
-const core = require('core');
+const cp = require('cp');
 
 // TODO: DEMONSTRATE API
 ```
